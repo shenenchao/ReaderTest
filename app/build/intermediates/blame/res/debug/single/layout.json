@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\ReaderTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\verify_pin_dialog.xml",
+        "source": "E:\\AndroidStudioProjects\\ReaderTest\\app\\src\\main\\res\\layout\\verify_pin_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ReaderTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\read_key_dialog.xml",
+        "source": "E:\\AndroidStudioProjects\\ReaderTest\\app\\src\\main\\res\\layout\\read_key_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ReaderTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modify_pin_dialog.xml",
+        "source": "E:\\AndroidStudioProjects\\ReaderTest\\app\\src\\main\\res\\layout\\modify_pin_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ReaderTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_lcd_message_dialog.xml",
+        "source": "E:\\AndroidStudioProjects\\ReaderTest\\app\\src\\main\\res\\layout\\display_lcd_message_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ReaderTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\ReaderTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
